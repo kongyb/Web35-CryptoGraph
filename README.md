@@ -30,39 +30,24 @@
 
 ### J006 강재민
 
-<img src="https://user-images.githubusercontent.com/60903175/205962455-bbdf1bbd-44d3-406e-86e4-152d19a54467.png" width="150"/>
-
 ### 뱃살과 실력이 비례하고 싶은 프론트엔드 개발자
 
-[이력서 바로가기](https://www.notion.so/010dc5a42f8b4c08a2f2592682eba48c)
-
-[깃헙 바로가기 💻](http://github.com/rkdwoals159)
 
 </td>
 <td align="center"><a href=""><img src="width="100px;" alt=""/><sub>
 
 ### J013 공윤배
 
-<img src="https://user-images.githubusercontent.com/60903175/205962656-71b83106-1f56-42fa-b96b-3e9f00e8cdf7.jpg" width="250"/>
-
 ### 항상 즐겁게 개발하는 개발자
    
-[이력서 바로가기](https://kongyb.notion.site/d9ecf75afb6245b9b558e3e7db6dc1dd)<br/>
-   
-[깃헙 바로가기 💻](https://github.com/kongyb)
 
 </td>
 <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub>
 
 ### J038 김상훈
 
-<img width="180" alt="김상훈" src="https://user-images.githubusercontent.com/60903175/205962751-c8330cf7-c25a-48a9-a301-ff99fb2f8a6b.png">
-
 ### 불편함을 불편해할 줄 아는 프론트엔드 개발자
 
-[이력서 바로가기](https://www.notion.so/009309ae05974be68be9ad7beded7285)
-
-[깃헙 바로가기 💻](https://github.com/baldwinIV)
 
 </td>
 
@@ -70,13 +55,9 @@
 
 ### J054 김준태
 
-<img width="150" alt="김준태" src="https://user-images.githubusercontent.com/60903175/205962803-44e9d683-ed45-4908-91bc-021ded7b5e51.png">
-
 ### 같이의 가치를 아는 프론트엔드 개발자
 
-[이력서 바로가기](https://www.notion.so/438ec182c25847df84ef53186a387fde)
-
-[깃헙 바로가기 💻](https://github.com/sronger)</td>
+</td>
 
   </tr>
   </tbody>
